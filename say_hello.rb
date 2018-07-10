@@ -1,8 +1,7 @@
 # Build your say_hello method here
 
 def method_name
-"return this string"
-  "cool string"
+puts "return this string"
+puts  "cool string"
 end
-
-puts method_name
+ method_name
